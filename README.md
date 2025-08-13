@@ -1,2 +1,4 @@
 # demorepo
-test repository
+## this is a demo repository
+
+hey there!
